@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itishreesolanki/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/itishreesolanki/LeetCode/tree/master/0007-reverse-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itishreesolanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
