@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/itishreesolanki/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/itishreesolanki/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/itishreesolanki/LeetCode/tree/master/0002-add-two-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itishreesolanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itishreesolanki/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +56,13 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itishreesolanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
