@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/itishreesolanki/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/itishreesolanki/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itishreesolanki/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itishreesolanki/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0002-add-two-numbers](https://github.com/itishreesolanki/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/itishreesolanki/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itishreesolanki/LeetCode/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itishreesolanki/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itishreesolanki/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itishreesolanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -66,6 +68,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itishreesolanki/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itishreesolanki/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itishreesolanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itishreesolanki/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
