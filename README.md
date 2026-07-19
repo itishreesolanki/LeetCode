@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/itishreesolanki/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itishreesolanki/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/itishreesolanki/LeetCode/tree/master/0012-integer-to-roman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itishreesolanki/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -26,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/itishreesolanki/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/itishreesolanki/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itishreesolanki/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/itishreesolanki/LeetCode/tree/master/0012-integer-to-roman) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itishreesolanki/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itishreesolanki/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itishreesolanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -43,6 +45,7 @@
 | [0006-zigzag-conversion](https://github.com/itishreesolanki/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/itishreesolanki/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/itishreesolanki/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/itishreesolanki/LeetCode/tree/master/0012-integer-to-roman) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itishreesolanki/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
